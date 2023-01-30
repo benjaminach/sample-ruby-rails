@@ -11,6 +11,7 @@ scalingo -a my-app git-setup
 git push scalingo master
 ```
 
+
 And that's it!
 
 ## Deploy via One-Click
