@@ -1,0 +1,8 @@
+{
+  "jobs": [
+    {
+      "command": "*/10 * * * * rails orders:check",
+      "size": "S"
+    }
+  ]
+}
