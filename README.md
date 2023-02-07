@@ -1,6 +1,6 @@
 # Sample Application with Ruby and Rails framework
 
-This sample is running on: https://ruby-rails.is-easy-on-scalingo.com/
+This sample is running on: https://ruby-rails.is-easy-on-scalingo.com/ 🎉
 
 ## Deploy via Git
 
