@@ -13,7 +13,7 @@ git push scalingo master
 
 And that's it!
 
-## Deploy via One-Click
+## Deploy via One-Click !
 
 [![Deploy to Scalingo](https://cdn.scalingo.com/deploy/button.svg)](https://my.scalingo.com/deploy)
 
