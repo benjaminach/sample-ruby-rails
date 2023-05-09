@@ -5,7 +5,7 @@
       "size": "S"
     },
     {
-      "command": "0 0 * * * rails orders:check1",
+      "command": "0 0 * * * rails orders:check25",
       "size": "S"
     },
     {
@@ -101,7 +101,7 @@
       "size": "S"
     },
     {
-      "command": "0 0 * * * rails orders:check25",
+      "command": "0 0 * * * rails orders:check1",
       "size": "S"
     }
   ]
