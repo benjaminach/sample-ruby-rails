@@ -1,7 +1,14 @@
 {
-  "name": "Sample Ruby Rails",
-  "description": "Sample Ruby web application using the Rails framework",
-  "logo": "https://scalingo.com/logo.svg",
-  "repository": "https://github.com/Scalingo/sample-ruby-rails",
-  "website": "https://ruby-rails.is-easy-on-scalingo.com/"
+	"name": "Sample Ruby Rails",
+	"description": "Sample Ruby web application using the Rails framework",
+	"logo": "https://scalingo.com/logo.svg",
+	"repository": "https://github.com/Scalingo/sample-ruby-rails",
+	"website": "https://ruby-rails.is-easy-on-scalingo.com/",
+	"addons": [{
+			"plan": "postgresql:postgresql-sandbox"
+		},
+		{
+			"plan": "mongodb:mongo-starter-256"
+		}
+	]
 }
