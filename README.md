@@ -9,7 +9,7 @@ This sample is running on: https://ruby-rails.is-easy-on-scalingo.com/
 Create an application on https://scalingo.com, then:
 
 ```shell
-scalingo --app my-app git-setup
+scalingo --app my-app git-setuppppp
 git push scalingo master
 ```
 
