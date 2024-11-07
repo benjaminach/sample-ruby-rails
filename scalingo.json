@@ -10,6 +10,18 @@
       "options": {
         "version": "5"
       }
+    },
+    {
+      "plan": "postgresql:postgresql-starter-512",
+      "options": {
+        "version": "14"
+      }
+    },
+    {
+      "plan": "redis:redis-starter-128",
+      "options": {
+        "version": "6"
+      }
     }
   ]
 }
