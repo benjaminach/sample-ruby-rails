@@ -8,7 +8,7 @@
     {
       "plan": "mysql:mysql-starter-512",
       "options": {
-        "version": "7"
+        "version": "5"
       }
     }
   ]
