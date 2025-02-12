@@ -1,2 +1,2 @@
 web: bundle exec rails server -b 0.0.0.0 -p $PORT -e $RAILS_ENV
-worker: tail -f /dev/null
+worker: sleep infinity
