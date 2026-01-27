@@ -3,5 +3,29 @@
   "description": "Sample Ruby web application using the Rails framework",
   "logo": "https://scalingo.com/logo.svg",
   "repository": "https://github.com/Scalingo/sample-ruby-rails",
-  "website": "https://ruby-rails.is-easy-on-scalingo.com/"
+  "website": "https://ruby-rails.is-easy-on-scalingo.com/",
+  "env": {
+    "VAR_TEST_1": {
+      "description": "test variable number 1",
+      "value": "1"
+    },
+    "VAR_SECRET_1": {
+      "description": "generated variable 1",
+      "generator": "secret"
+    },
+    "PUBLIC_URL": {
+      "description": "URL of the application",
+      "generator": "url"
+    },
+    "ADMIN_URL": {
+      "description": "Admin URL of the application",
+      "generator": "url",
+      "template": "%URL%/admin"
+    }
+  },
+  "addons": "",
+  "scripts": {
+    "first-deploy": "echo 'first deployment'",
+    "postdeploy": "echo hello"
+  }
 }
