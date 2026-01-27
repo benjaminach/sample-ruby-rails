@@ -4,6 +4,7 @@
   "logo": "https://scalingo.com/logo.svg",
   "repository": "https://github.com/Scalingo/sample-ruby-rails",
   "website": "https://ruby-rails.is-easy-on-scalingo.com/",
+  "copy_parent_database_urls": true,
   "env": {
     "VAR_TEST_1": {
       "description": "test variable number 1",
