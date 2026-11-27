@@ -1,6 +1,6 @@
 # Sample Application with Ruby on Rails
 
-Ruby Version 4.0.6
+Ruby Version 4.0.6 qdq dssq dqs
 
 This sample is running on: https://ruby-rails.is-easy-on-scalingo.com/
 
